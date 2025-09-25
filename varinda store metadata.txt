@@ -1,0 +1,48 @@
+Here’s the metadata for Varinda dataset
+
+From the dataset description shared:
+
+--> Total Rows: 31,048 (orders/transactions)
+
+--> Total Columns: 19
+
+
+Column description for varinda store:
+
+index: Sequential row identifier for each record.
+
+Order ID: Unique identifier for the order placed on the sales channel.
+
+Cust ID: Unique identifier assigned to each customer.
+
+Gender: Gender of the customer (e.g., Men, Women).
+
+Age: Age of the customer in years.
+
+Date: Date of the order in dd-mm-yy format.
+
+Status: Current status of the order (e.g., Delivered).
+
+Channel: Platform through which the order was placed (e.g., Myntra, Amazon, Ajio).
+
+SKU: Stock Keeping Unit, unique product identifier.
+
+Category: Product category (e.g., kurta, Set, Top, Western Dress).
+
+Size: Size of the product (e.g., S, M, L, XL, XXL).
+
+Qty: Quantity of product ordered.
+
+currency: Transaction currency (e.g., INR).
+
+Amount: Transaction value (in INR).
+
+ship-city: Customer shipping city.
+
+ship-state: Customer shipping state.
+
+ship-postal-code: Postal code of the shipping address.
+
+ship-country: Country of shipping (e.g., IN).
+
+B2B: Indicates if the order is business-to-business (TRUE/FALSE).
