@@ -21,6 +21,10 @@ Vrinda Store is an online clothing brand in india and wants to analyze its 2022 
  8. Track top-selling products (kurta, set, top, western dress).
 
 
+## Dashboard Preview
+![Dashboard Preview](https://github.com/Humna241/Vrinda-Store-annual-report-2022/blob/main/vrinda%20store%20final%20image.PNG)
+
+
 
 
 
